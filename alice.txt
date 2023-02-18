@@ -1,3 +1,2 @@
-hi,
-how's our learning going?
-hope it's going wee.
+how's our learning going
+hope it's going well.
